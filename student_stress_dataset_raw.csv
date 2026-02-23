@@ -1,0 +1,201 @@
+Age,Gender,Activity_Level,Daily_Walk_km,Screen_Time_hrs,Sleep_hrs,Study_Work_hrs,Diet_Quality,Caffeine_Intake,Stress_Level
+54,Male,Moderate,2.84,7.74,9.57,7.39,,High,Low
+44,Male,Low,,5.35,6.38,8.42,,Very High,High
+30,Other,Moderate,4.04,8.4,,6.82,Average,Medium,Low
+58,Female,Low,2.4,5.18,5.66,9.88,Poor,High,High
+23,F,high,3.34,1.92,6.46,5.65,excellent,Medium,High
+36,M,high,3.02,3.98,8.62,10.6,,Very High,Low
+54,Female,Low,3.15,2.26,5.75,6.92,Average,Medium,High
+34,M,high,,5.3,8.67,4.14,,High,Low
+38,Other,high,3.04,6.04,7.35,7.26,excellent,Medium,Medium
+26,Other,high,3.75,9.35,5.83,5.64,excellent,High,Medium
+26,Male,High,5.18,6.65,7.26,8.68,Good,Medium,Medium
+39,F,low,4.44,5.56,7.67,5.69,Average,High,Medium
+51,M,Moderate,6.23,7.66,7.25,6.11,excellent,High,High
+55,Female,High,1.85,1.58,4.62,3.22,Good,Medium,Low
+39,Other,high,4.31,6.47,5.63,6.1,Good,Very High,Low
+18,Male,Low,3.28,7.54,6.2,2.15,,Low,Low
+37,Male,high,6.28,3.04,6.41,3.83,,Very High,Medium
+17,M,low,1.79,8.29,,8.52,Good,Medium,Medium
+39,Other,high,1.74,6.68,6.71,8.57,,Very High,Low
+59,F,Low,2.1,5.17,4.9,7.85,excellent,High,Medium
+45,Other,low,-0.19,7.27,6.96,5.07,Poor,Low,Low
+53,M,high,,10.54,7.23,6.9,excellent,Medium,Low
+17,M,low,1.86,6.36,7.17,6.99,Good,Medium,Low
+36,Other,Moderate,3.23,6.5,7.8,4.68,Good,Medium,Low
+48,M,Moderate,3.51,5.08,7.5,10.01,excellent,Low,Low
+27,Other,high,5.81,4.3,7.05,8.75,,High,Low
+37,Female,low,4.43,7.66,6.42,6.56,,Medium,Low
+59,Other,Low,2.13,4.29,4.51,7.05,Good,Very High,Medium
+40,Other,high,,6.14,7.02,7.42,Average,Medium,Low
+42,M,Moderate,3.74,5.04,6.75,2.92,,Medium,Low
+57,M,Moderate,1.02,6.96,6.83,6.51,excellent,Medium,Medium
+43,Male,high,5.75,6.67,4.97,5.64,,Medium,Medium
+31,Male,low,4.77,8.08,5.2,5.0,excellent,High,Medium
+30,Female,Moderate,,4.98,7.76,6.44,Good,Very High,Low
+59,Male,low,0.43,5.46,6.45,10.6,,High,High
+18,Other,Moderate,5.03,4.04,7.32,8.28,excellent,Very High,High
+52,M,Moderate,2.83,5.11,6.53,5.86,Good,Medium,Medium
+22,Male,High,4.86,6.75,6.54,8.15,Average,Low,High
+36,Male,Moderate,0.61,,7.63,9.8,excellent,High,Medium
+24,Female,Low,2.1,4.16,5.88,8.85,Average,Low,Low
+54,Female,high,3.01,7.74,6.62,7.12,Average,High,High
+33,Other,high,3.07,8.71,5.95,5.71,Poor,Medium,Low
+19,M,low,2.32,6.83,5.98,8.4,,High,High
+40,Female,Moderate,3.93,9.75,6.13,7.79,excellent,Medium,Low
+29,Male,Low,1.4,4.45,6.77,8.79,Average,High,High
+24,M,low,2.79,3.51,5.93,8.27,Poor,Medium,Low
+41,M,High,3.18,2.44,8.01,9.1,Good,Medium,Low
+17,Male,low,3.77,8.99,5.43,5.93,excellent,Very High,High
+35,Female,low,4.07,7.31,6.28,9.63,Average,Medium,Low
+43,Male,Moderate,1.31,5.89,5.97,7.4,,Very High,Low
+22,M,High,0.7,6.56,8.24,11.15,Poor,Medium,Low
+59,F,low,4.92,3.75,6.74,5.62,Average,Low,High
+23,F,Low,3.5,10.89,7.74,10.47,,Medium,High
+50,Other,Low,1.88,,4.72,7.4,Average,Low,Low
+29,Male,high,5.33,6.22,6.82,5.7,excellent,Low,Low
+32,Male,High,3.17,7.45,7.57,6.03,excellent,Medium,High
+51,Other,High,4.77,6.96,6.6,6.36,excellent,Low,High
+55,Other,high,3.1,6.45,7.78,7.85,Poor,Very High,Low
+19,Other,low,6.09,4.42,5.88,8.05,excellent,High,Low
+17,M,High,5.63,6.94,8.19,5.85,,Medium,Low
+21,Male,Low,2.63,9.76,9.26,6.95,Average,Low,Medium
+57,M,Low,4.46,8.69,6.06,11.28,Good,Medium,High
+19,Other,Moderate,3.97,9.19,5.97,10.46,,Very High,Medium
+44,Male,High,5.05,4.98,8.24,7.87,,Medium,High
+33,M,low,,4.02,8.4,7.08,excellent,Medium,High
+41,M,high,4.03,5.75,5.87,7.24,Poor,Low,High
+59,Other,high,4.59,6.11,6.0,8.23,Average,Very High,High
+49,Male,low,0.36,8.19,6.16,4.95,Poor,High,High
+25,Other,Moderate,1.23,2.62,4.89,6.49,Average,High,High
+51,Male,high,-0.06,9.06,,3.66,Average,Low,High
+29,F,High,2.6,,5.3,7.8,Poor,Medium,Medium
+46,Female,Moderate,4.08,5.15,5.58,8.29,,Low,Low
+30,Female,High,5.25,3.98,6.46,6.03,Average,Low,Low
+23,Female,Low,3.11,2.69,6.78,10.15,Poor,Low,Medium
+29,Other,Moderate,5.44,7.65,8.36,4.55,Average,Medium,Medium
+38,F,high,0.93,6.15,5.3,4.07,Good,Very High,Medium
+55,Male,Moderate,0.44,3.42,7.68,7.45,,Low,Medium
+36,M,Moderate,2.92,3.41,6.24,9.09,excellent,Medium,High
+31,Male,Moderate,3.58,5.33,6.44,10.37,Average,Very High,Low
+33,M,Moderate,2.95,9.34,7.31,6.08,Good,Low,High
+39,Male,High,-0.1,5.48,5.15,9.16,excellent,High,Low
+41,F,Low,2.87,2.99,6.96,6.92,excellent,Very High,Low
+40,M,low,1.04,5.51,6.7,6.65,Average,Low,Medium
+56,Other,Moderate,4.0,5.45,7.09,8.77,Poor,Very High,High
+44,Male,high,3.55,0.61,,8.3,Average,Very High,Medium
+30,Male,Moderate,1.59,5.89,9.45,3.85,Good,Very High,High
+16,M,high,2.23,5.54,5.73,9.95,excellent,Very High,Low
+40,Other,High,1.41,7.39,5.86,9.76,Average,Very High,Medium
+22,Other,high,2.91,9.7,5.75,5.75,Poor,Very High,Medium
+24,F,low,4.43,8.25,5.83,7.79,Average,Low,Low
+39,Other,Low,1.52,5.46,5.74,7.99,,High,Low
+16,Other,high,3.76,3.79,7.93,7.52,Poor,Medium,Low
+59,Other,high,2.2,11.15,8.2,5.9,Good,Very High,Medium
+23,Female,Low,1.81,6.12,5.82,5.66,excellent,Medium,High
+39,F,low,2.84,6.03,5.5,6.95,Average,Low,Medium
+26,Male,Moderate,1.45,5.95,7.07,9.35,Poor,Very High,High
+32,M,high,2.17,6.4,5.84,8.09,,High,Medium
+23,Male,Low,1.2,5.71,7.26,6.26,Poor,Medium,Medium
+50,F,High,5.95,4.85,6.74,8.54,,Very High,Low
+50,M,Low,3.05,4.91,4.68,1.3,Good,Low,High
+48,F,High,1.95,5.93,8.36,9.3,excellent,High,Medium
+20,Other,low,3.32,4.91,8.66,3.52,Good,Medium,Medium
+57,M,Moderate,2.83,4.57,,6.28,Average,Medium,Low
+54,Other,Low,2.67,6.21,6.03,4.76,Poor,Very High,Low
+56,Male,high,3.92,5.49,6.84,4.41,,High,High
+43,Male,low,4.14,9.01,6.9,9.32,,High,Medium
+22,M,Low,2.2,0.7,7.29,6.06,Poor,High,High
+24,M,high,2.14,8.18,8.91,7.69,Poor,High,Medium
+23,F,Low,2.59,8.49,6.29,6.91,Average,Low,High
+27,F,High,-0.45,1.85,5.54,7.95,Good,High,Low
+49,Other,Low,0.73,5.31,4.84,7.15,,Medium,Medium
+48,M,Low,5.05,5.26,5.62,4.43,Average,Medium,High
+38,Male,Low,5.47,3.18,6.46,8.99,Good,Low,Low
+39,F,low,2.63,4.44,8.65,6.01,Average,Medium,Low
+52,F,Low,3.86,3.78,5.88,3.89,,Medium,High
+50,Male,high,3.47,9.5,6.77,6.14,Poor,High,Medium
+59,F,High,7.62,7.87,6.48,10.0,Poor,Medium,Medium
+55,Other,High,4.68,8.54,7.93,8.7,Good,Low,Low
+37,M,Low,2.81,7.44,9.53,6.3,excellent,High,Medium
+42,Male,low,1.57,3.74,5.86,6.3,Good,Very High,Medium
+50,M,low,0.59,4.95,5.91,6.36,excellent,High,Medium
+16,F,high,3.31,6.98,7.75,11.15,Average,Low,Low
+50,F,Low,1.87,3.56,7.32,7.76,Average,High,High
+52,Male,High,0.87,7.43,8.72,7.86,,High,Medium
+29,Other,low,2.03,5.52,7.2,9.06,excellent,Low,Low
+18,Female,Low,1.38,5.25,6.07,7.48,,High,Low
+16,Male,low,5.53,7.42,7.21,6.48,Poor,Low,High
+20,Female,low,4.32,6.89,7.83,6.61,excellent,Low,Medium
+41,Female,High,2.99,5.28,7.48,6.86,Good,Very High,Medium
+29,Other,Moderate,5.22,8.32,7.11,6.93,Poor,Medium,High
+54,Female,high,3.12,3.84,7.78,8.46,Poor,Medium,High
+42,Female,high,1.71,7.23,7.9,7.1,Good,High,Low
+24,Other,High,5.28,7.19,8.16,8.47,Poor,High,Low
+30,Female,low,3.81,5.38,7.28,6.84,excellent,Very High,High
+30,Female,Low,1.44,6.65,6.3,7.16,,Very High,Medium
+41,Female,low,2.71,3.5,6.68,3.0,Poor,Very High,Low
+57,Male,High,1.69,7.85,7.95,8.83,excellent,Low,Low
+28,Male,high,0.93,5.63,5.52,7.69,Average,Very High,Medium
+47,Male,low,4.39,,6.94,9.0,excellent,Very High,Low
+54,Other,high,5.86,,6.03,1.21,,High,Medium
+47,F,Low,0.9,4.59,,11.18,excellent,Very High,Medium
+19,Female,high,,3.18,8.03,6.72,Good,Low,Medium
+45,Female,high,2.02,2.89,6.73,9.22,,Low,High
+52,Other,Moderate,2.27,7.21,6.56,4.92,Average,High,High
+38,Female,Moderate,2.11,3.44,,8.23,Good,Very High,High
+54,Male,Moderate,1.7,9.51,7.4,4.89,excellent,Very High,Medium
+30,F,high,3.07,1.84,7.27,5.75,,Low,Medium
+58,M,High,1.75,9.39,9.1,10.83,Average,Very High,High
+44,Female,high,3.41,6.42,6.13,6.62,Good,Very High,Low
+51,Male,High,2.92,5.81,6.76,7.43,Average,Very High,Medium
+28,M,High,2.64,4.91,6.8,8.74,excellent,Medium,Low
+47,F,Moderate,1.64,6.8,8.39,7.99,Average,High,Low
+22,M,low,,,6.39,7.3,Poor,Medium,Medium
+37,Male,Low,4.13,8.21,6.83,7.73,Good,High,Medium
+43,M,Moderate,3.75,,7.23,11.81,Average,Low,Low
+17,Other,Moderate,1.53,6.3,6.72,6.88,excellent,Very High,Low
+57,M,low,3.15,5.27,,7.4,excellent,High,High
+21,Female,Low,4.13,5.89,6.73,9.1,Average,Medium,High
+43,Female,high,0.5,6.62,7.79,9.21,excellent,Very High,Medium
+43,Other,high,3.82,2.58,5.27,9.37,,Low,High
+59,Male,Moderate,2.01,3.3,6.66,8.28,,High,High
+59,Female,Low,3.86,7.49,5.66,4.71,,High,High
+35,F,Moderate,1.86,6.34,7.93,10.27,Poor,High,High
+45,Female,High,0.29,5.63,4.67,4.71,Average,Very High,Low
+26,Female,Moderate,0.56,6.04,5.83,7.61,Poor,Medium,Medium
+43,Male,Moderate,3.07,6.7,6.95,5.49,excellent,Medium,High
+40,M,high,3.39,4.92,8.38,6.87,Poor,High,Low
+54,Female,high,1.64,4.44,6.42,7.66,excellent,Low,Low
+48,Other,high,3.96,6.39,5.83,7.64,excellent,Low,Low
+16,M,High,0.51,4.04,8.76,7.84,Good,Medium,High
+42,F,high,2.9,6.82,4.76,10.23,,Low,High
+28,Male,Low,1.18,2.59,3.86,7.91,excellent,Medium,Medium
+56,F,low,2.02,,,6.51,Good,High,High
+18,M,Low,3.07,6.95,5.9,8.93,,Medium,High
+54,M,Low,1.71,6.51,5.27,9.38,excellent,Medium,Low
+21,M,high,2.42,7.97,7.35,4.54,excellent,High,Medium
+23,F,low,4.51,9.33,6.79,8.19,Poor,Low,High
+42,M,low,,8.03,5.82,8.4,Poor,Medium,High
+24,F,low,4.25,2.32,4.96,6.4,,Medium,Low
+52,M,High,1.31,3.44,7.55,9.75,excellent,High,Low
+48,Other,high,3.79,4.75,7.28,6.7,Average,Low,High
+57,M,low,5.16,,6.38,7.25,Poor,Medium,Medium
+59,F,High,-0.71,7.04,8.72,6.65,,High,Medium
+39,Female,Moderate,1.8,4.55,5.22,7.03,excellent,Medium,Low
+30,M,Moderate,3.87,6.37,4.67,4.81,excellent,Very High,Low
+47,Female,High,2.7,4.49,5.67,4.12,Average,High,High
+47,Other,High,3.56,4.78,6.45,10.19,,Low,Low
+39,Male,high,2.09,3.19,6.79,5.31,excellent,Low,High
+56,Other,high,,4.15,6.21,5.02,Poor,Low,Medium
+27,M,Moderate,2.77,3.3,6.92,2.69,Average,Low,Medium
+54,Female,low,4.75,4.05,5.0,5.72,,Medium,High
+17,Female,Moderate,3.38,8.11,8.23,4.35,Average,Medium,Low
+18,F,low,3.51,4.1,6.4,10.28,Poor,Low,Medium
+52,Female,low,2.38,11.26,7.84,9.02,,Low,Low
+32,F,high,2.27,6.99,6.91,5.62,Average,Low,Medium
+17,Male,Low,2.35,6.37,7.05,11.5,Good,Medium,High
+17,M,Low,3.59,,7.18,8.96,Poor,Low,High
+43,F,High,2.37,7.4,,6.35,Poor,Low,High
+38,Male,high,3.43,4.85,7.27,2.0,Poor,Very High,Medium
+52,Female,low,6.11,6.24,8.09,11.58,Good,Very High,Low

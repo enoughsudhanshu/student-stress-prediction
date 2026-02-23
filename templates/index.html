@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Stress Prediction</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #4e73df, #1cc88a);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+            width: 500px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        label {
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            font-size: 14px;
+        }
+
+        input:focus, select:focus {
+            outline: none;
+            border-color: #4e73df;
+            box-shadow: 0 0 5px rgba(78,115,223,0.5);
+        }
+
+        .btn {
+            width: 100%;
+            padding: 10px;
+            background-color: #4e73df;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #2e59d9;
+        }
+
+        .prediction {
+            text-align: center;
+            margin-top: 15px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #1cc88a;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>Student Stress Level Prediction</h2>
+
+        <form action="/predict" method="post">
+
+            <label>Age</label>
+            <input type="number" name="Age" step="any" required>
+
+            <label>Daily Walk (km)</label>
+            <input type="number" name="Daily_Walk_km" step="any" required>
+
+            <label>Screen Time (hrs)</label>
+            <input type="number" name="Screen_Time_hrs" step="any" required>
+
+            <label>Sleep (hrs)</label>
+            <input type="number" name="Sleep_hrs" step="any" required>
+
+            <label>Study/Work (hrs)</label>
+            <input type="number" name="Study_Work_hrs" step="any" required>
+
+            <label>Gender</label>
+            <select name="Gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+
+            <label>Activity Level</label>
+            <select name="Activity_Level">
+                <option value="low">Low</option>
+                <option value="medium">Medium</option>
+                <option value="high">High</option>
+            </select>
+
+            <label>Diet Quality</label>
+            <select name="Diet_Quality">
+                <option value="poor">Poor</option>
+                <option value="average">Average</option>
+                <option value="good">Good</option>
+            </select>
+
+            <label>Caffeine Intake</label>
+            <select name="Caffeine_Intake">
+                <option value="low">Low</option>
+                <option value="medium">Medium</option>
+                <option value="high">High</option>
+            </select>
+
+            <input type="submit" value="Predict" class="btn">
+        </form>
+
+        <div class="prediction">
+            {{ prediction_text }}
+        </div>
+
+    </div>
+
+</body>
+</html>
